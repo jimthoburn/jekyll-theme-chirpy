@@ -6,7 +6,7 @@ on:
   push:
     # Specify the source branch (optional)
     branches:
-      - main
+      - master
 
 jobs:
   github-pages:
